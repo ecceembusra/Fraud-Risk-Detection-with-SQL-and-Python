@@ -1,0 +1,7 @@
+transaction_id,user_id,amount,transaction_date,location,device
+T001,U001,50.0,2025-07-28 14:12:00,İzmir,Mobile
+T002,U001,4200.0,2025-07-28 14:15:00,İstanbul,Web
+T003,U002,99.0,2025-07-28 01:50:00,Denizli,Mobile
+T004,U002,9800.0,2025-07-28 10:10:00,İzmir,Web
+T005,U003,12000.0,2025-07-28 03:00:00,Adana,Mobile
+T006,U003,11500.0,2025-07-28 10:00:00,İstanbul,Web
